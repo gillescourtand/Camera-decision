@@ -84,8 +84,8 @@ To mitigate the impact of key frames and compression on detecting slow or small 
 - Increase Key Frame Frequency: If you have control over the video recording settings, increase the frequency of key frames. This ensures that there are more complete images, reducing the reliance on predictive frames.
 
 ## References
-Henry, J., & Bai, Y. (2022). Digital video recording in behavioral ecotoxicology. Environmental Toxicology and Chemistry, 41(9), 2342–2353. https://doi.org/10.1002/etc.5378
-Mathis, A., et al. (2018). DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience, 21(9), 1281–1289. https://doi.org/10.1038/s41593-018-0209-y
-Pereira, T. D., et al. (2022). SLEAP: Multi-animal pose tracking. Nature Methods, 19, 486–495. https://doi.org/10.1038/s41592-022-01426-1
-Zhang, X., et al. (2019). Video compression fundamentals. IEEE Transactions on Circuits and Systems for Video Technology, 29(1), 1–19.
-Bradski, G. (2000). The OpenCV Library. Dr. Dobb’s Journal of Software Tools.
+- Henry, J., & Bai, Y. (2022). Digital video recording in behavioral ecotoxicology. Environmental Toxicology and Chemistry, 41(9), 2342–2353. https://doi.org/10.1002/etc.5378
+- Mathis, A., et al. (2018). DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience, 21(9), 1281–1289. https://doi.org/10.1038/s41593-018-0209-y
+- Pereira, T. D., et al. (2022). SLEAP: Multi-animal pose tracking. Nature Methods, 19, 486–495. https://doi.org/10.1038/s41592-022-01426-1
+- Zhang, X., et al. (2019). Video compression fundamentals. IEEE Transactions on Circuits and Systems for Video Technology, 29(1), 1–19.
+- Bradski, G. (2000). The OpenCV Library. Dr. Dobb’s Journal of Software Tools.
